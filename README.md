@@ -1,2 +1,1 @@
-# Books-Scraper-repo
-Developed a Python-based web scraper using BeautifulSoup to extract book data from “Books to Scrape.” Collected details like title, price, availability, and rating across multiple pages. Cleaned and exported the data to a CSV file for analysis. Demonstrated skills in HTML parsing, pagination handling, and data storage.
+Developed a web scraper using Selenium to automate the extraction of property listings from a dynamic real estate website. The tool navigates through multiple pages, scrapes property details (title, price, location, bedrooms), and handles user interactions like clicks and pop-ups. Data is cleaned and saved into a structured CSV file for analysis.
